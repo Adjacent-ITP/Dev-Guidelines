@@ -1,6 +1,6 @@
-# Design-Guidelines
+# Dev Guidelines
 
-This is a set of general design guidelines and development documentation for designers and developers (WIP).
+This is a set of general design guidelines and development documentation for designers, developers and editors (WIP).
 
 ## List of content:
 
