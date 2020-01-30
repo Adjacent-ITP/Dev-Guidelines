@@ -12,12 +12,12 @@ This is a set of general design guidelines and development documentation for des
 - [ ] Responsive design
 - [ ] Deliverables (UI files) for developers
 
-### Developer Team
+### Development Team
 
 - [ ] Server and hosting
 - [ ] Static site generator (HUGO)
 - [ ] Coding style guide
 
-### Editor Team
+### Editing Team
 
 - [ ] Editing workflow
