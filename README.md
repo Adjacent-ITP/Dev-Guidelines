@@ -45,7 +45,7 @@ Here is a list of required elements for the site, based on previous years
 * There are generally 3 templates:
 
   * Home (listing of all articles)
-  * About (Blurb about Adjacent, and blurb about the issue)
+  * About (Blurb about Adjacent, the issue, and masthead)
   * Article template - below...
 
 * An *article* should have the following fields:
