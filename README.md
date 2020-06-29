@@ -1,10 +1,12 @@
 # Adjacent Web Development
 
+
 ### Access
 
 * Contact Yen to get access to the Wordpress backend, and get *super-admin* privileges
-* Ensure you have been added as a member to this Github organization (https://github.com/Adjacent-ITP)
+* Ensure you have been added as a member to the Github organization (https://github.com/Adjacent-ITP)
 * Ask Yen to create a new site for the issue. (Or if you are very comfortable with WP already, do this yourself, following the existing pattern of sites)
+* Add editors to the issue (https://itp.nyu.edu/adjacent/issue-7/wp-admin/users.php?page=ldap_admin_functions.php) and give them Author or Editor privileges.
 
 ### WP Privileges
 
@@ -28,8 +30,9 @@ _"With great power comes great responsibility"_
 ### Workflow and Deployment
 
 * Create a local instance of WP and develop the theme with that
+* Install ACF locally (https://www.advancedcustomfields.com/)
 * Use WP's DB export feature to periodically get the data editors are putting into the live instance of WP
-* Use ACF's json sync feature to sync up fields
+* Use ACF's json sync feature to sync up fields (https://www.advancedcustomfields.com/resources/local-json/)
 * After committing changes, create a zip file of the theme code, and use the WP admin interface to upload the theme. (https://itp.nyu.edu/adjacent/wp-admin/network/themes.php)
 * For subsequent updates, you will first need to *delete* the old version of the theme and then re-upload it.
 * This is far from the ideal deployment process, but it is what it is.
